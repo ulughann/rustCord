@@ -1,5 +1,8 @@
 # RustCord
 Tiny (5MiB) Discord client built with Pake/Tauri.
+**Warning**: This is a showcase of Pake and Tauri and is not meant to be daily-driven altho working. You will not find many features that you are used to and that is not an error, its simply the limitations of the Discord T.o.S.
+
+
 ![preview.png](https://raw.githubusercontent.com/onrirr/rustCord/main/preview,.png)
 you can download a pre-build windows installer [here](https://github.com/onrirr/rustCord/releases/download/educational/rustCord.msi) for testing and educational purposes.
 
